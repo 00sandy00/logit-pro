@@ -1,0 +1,38 @@
+{
+  "name": "logit-pro",
+  "version": "1.0.4",
+  "description": "A flexible logging package that supports level-based logging (debug, info, warn, error) and automatic log rotation (daily, weekly, monthly, yearly). Easily configure log levels and rotation to suit your needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "log",
+    "logging",
+    "rotation",
+    "daily",
+    "weekly",
+    "monthly",
+    "yearly",
+    "logger",
+    "log-level",
+    "debug",
+    "info",
+    "warn",
+    "error"
+  ],
+  "author": "Sandipan Sarkar <newfile.txt@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00sandy00/logit-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/00sandy00/logit-pro/issues"
+  },
+  "homepage": "https://github.com/00sandy00/logit-pro#readme"
+}
