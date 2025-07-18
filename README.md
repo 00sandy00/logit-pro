@@ -1,6 +1,8 @@
 
 # logit-pro
 
+[![npm version](https://badge.fury.io/js/logit-pro.svg)](https://www.npmjs.com/package/logit-pro)
+
 `logit-pro` is a flexible and powerful logging package for Node.js, providing level-based logging and automatic log rotation. It allows you to manage logs effectively with configurable log levels, customizable file names, and support for daily, weekly, monthly, or yearly log rotation.
 
 ## Features
